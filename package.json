@@ -21,6 +21,7 @@
   },
   "homepage": "https://github.com/luoyjx/node-rpc-demo#readme",
   "dependencies": {
-    "dnode": "^1.2.2"
+    "dnode": "^1.2.2",
+    "node-json-rpc": "0.0.1"
   }
 }
